@@ -1,0 +1,8 @@
+
+spring-boot-kafka-consumer/.DS_Store
+.DS_Store
+*.jar
+spring-boot-kafka-consumer/.mvn/wrapper/maven-wrapper.properties
+spring-boot-kafka-consumer/.mvn/wrapper/MavenWrapperDownloader.java
+spring-boot-kafka-consumer/.vscode/settings.json
+spring-boot-kafka-producer/.vscode/settings.json

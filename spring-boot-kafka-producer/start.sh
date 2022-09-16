@@ -1,0 +1,1 @@
+java -Dappdynamics.agent.tierName="producer" -Dappdynamics.agent.nodeName="producer_node" -javaagent:/Users/ledeoliv/WORK/LABS/KAFKA/agent/javaagent.jar  -jar target/spring-kafka-producer-0.0.1-SNAPSHOT.jar
